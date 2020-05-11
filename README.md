@@ -52,8 +52,8 @@ How should we add this to the box model?
 ## Brainstorming
 
 Resources:
-* https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1hUZlVDPfa5C8KgURoP_3dAiUQgI6rdb7A5e_g8NcPaY%2Fedit%23gid%3D0&amp;data=02%7C01%7C%7C9d09d8c9a4f74cf36c7d08d7ec54f351%7Ca6fa3b030a3c42588433a120dffcd348%7C0%7C0%7C637237721942289211&amp;sdata=ZUrVxl2iHla42Zr%2BJkhr53LkqPbYUTCWL5CqgSM%2Bcwg%3D&amp;reserved=0
-* https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FICI3D%2FmodelTaxonomy_SI&amp;data=02%7C01%7C%7C9d09d8c9a4f74cf36c7d08d7ec54f351%7Ca6fa3b030a3c42588433a120dffcd348%7C0%7C0%7C637237721942289211&amp;sdata=JCavpvL0mMYUPrHOZ%2BK9pb8NazDOEIHxq5S3YhDr9Tc%3D&amp;reserved=0
+* https://docs.google.com/spreadsheets/d/1hUZlVDPfa5C8KgURoP_3dAiUQgI6rdb7A5e_g8NcPaY
+* https://github.com/ICI3D/modelTaxonomy_SI
 
 Future points:
 * Quarantine and isolation?
